@@ -1,0 +1,1 @@
+Blackjack game coded in C++. Has a 5 card charlie with options at each card after 2 to hit, stand, insurance and double a bet (no split option). There are no "face cards" only numbers 2-11. The user can quit after each round with a total rounds played counted and displayed when the user decides to quit.
